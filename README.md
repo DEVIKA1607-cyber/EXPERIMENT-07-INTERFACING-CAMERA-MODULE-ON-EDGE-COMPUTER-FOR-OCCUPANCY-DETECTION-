@@ -1,5 +1,6 @@
 # EXPERIMENT-07-INTERFACING-CAMERA-MODULE-ON-EDGE-COMPUTER-FOR-OCCUPANCY-DETECTION-
-
+### Name:  DEVIKA
+### Reg No: 212224100010
 
 ### AIM:
 To interface a USB/CSI camera module with an edge computing platform (e.g., Raspberry Pi, Jetson Nano, etc.) and implement an occupancy detection system using the Histogram of Oriented Gradients (HOG) algorithm.
@@ -52,9 +53,7 @@ Run the code and verify that the system detects human presence and draws boundin
 
  ###  Python Code:
  
-import cv2
-import imutils
-```
+```py
 import cv2
 import imutils
 
@@ -134,8 +133,10 @@ cap.release()
 cv2.destroyAllWindows()
 
 
-### SCREEN SHOTS OF OUTPUT 
-<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/ea5f3f0b-f0a9-4c7e-9390-05ff7f3cfa33" />
+### SCREEN SHOTS OF OUTPUT
+<img width="3077" height="1801" alt="Screenshot 2025-11-26 161517" src="https://github.com/user-attachments/assets/2892aa42-ab0f-42c7-9252-1c2aa85730c0" />
+
+
 
 
 ### Result:
